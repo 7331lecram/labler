@@ -1,0 +1,5 @@
+name: 'Label Action'
+description: 'Automatically set labels'
+runs:
+  using: 'node16'
+  main: 'src/index.js'
